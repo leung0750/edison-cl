@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/Go-208BD2?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-632D62?style=for-the-badge&logo=rust&logoColor=orange" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-2A2C3F?style=for-the-badge&logo=solidity&logoColor=007AA6" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </p>
 
