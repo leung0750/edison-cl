@@ -11,6 +11,10 @@
 
 <p align="center">
     <img src = "https://github-readme-stats.vercel.app/api?username=edison-cl&show_icons=true&theme=tokyonight">
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhujunxxxxx&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edison-cl&layout=compact">
 </p>
 
 <p align='center'>
