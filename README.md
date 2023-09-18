@@ -9,13 +9,7 @@
   🎲 随缘创作 &nbsp 随缘更新 🎲
 </p>
 
-<p align="center">
-    <img src = "https://github-readme-stats.vercel.app?username=edison-cl&show_icons=true&theme=tokyonight">
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhujunxxxxx&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edison-cl&layout=compact">
-</p>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edison-cl)](https://github.com/anuraghazra/github-readme-stats)
 
