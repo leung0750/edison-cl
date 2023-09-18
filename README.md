@@ -9,9 +9,11 @@
   🎲 随缘创作 &nbsp 随缘更新 🎲
 </p>
 
+<p align='center'>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edison-cl&show_icons=true&theme=dracula)
+</p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edison-cl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
