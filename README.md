@@ -17,6 +17,8 @@
   <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=edison-cl&layout=compact">
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edison-cl)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
