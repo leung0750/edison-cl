@@ -10,7 +10,7 @@
 </p>
 
 <p align='center'>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edison-cl&show_icons=true&theme=dracula)
+  <img src="[https://img.shields.io/badge/Go-208BD2?style=for-the-badge&logo=go&logoColor=white](https://github-readme-stats.vercel.app/api?username=edison-cl&show_icons=true&theme=dracula)" />
 </p>
 
 
