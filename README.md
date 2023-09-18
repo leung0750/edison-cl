@@ -10,7 +10,7 @@
 </p>
 
 <p align='center'>
-  <img src="[https://img.shields.io/badge/Go-208BD2?style=for-the-badge&logo=go&logoColor=white](https://github-readme-stats.vercel.app/api?username=edison-cl&show_icons=true&theme=dracula)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=edison-cl&show_icons=true&theme=dracula" />
 </p>
 
 
@@ -32,7 +32,7 @@
   📫 有任何疑问或建议请提交ISSUE
 </p>
 <p align='center'>
-    <a href="https://twitter.com/edison_0750" align='center'>
+    <a href="https://twitter.com/leung_0750" align='center'>
         <img src = "https://img.shields.io/badge/Twitter-208BD2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
     <a href="https://space.bilibili.com/434459598" align='center'>
